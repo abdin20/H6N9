@@ -47,7 +47,7 @@ public class Player : MonoBehaviour {
         }
 
         //Jump if player hits space
-        else if (Input.GetKeyDown("space")) {
+        else if (Input.GetKeyDown("space") && playerRigidBody.velocity.y==0) {
        
             playerRigidBody.velocity = new Vector2(playerRigidBody.velocity.x, m_jumpForce);
 
