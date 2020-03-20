@@ -5,26 +5,25 @@ using UnityEngine;
 public class PlayerAttack : MonoBehaviour
 {
     public float timeBetweenAttacks;
-    private float currentTime;
-    private float lastTime;
+    private float _currentTime;
+    private float _lastTime;
 
     public Transform attackPosition;
     public float attackRange;
     public int damage;
 
-    private Animator animator;
+    private Animator _animator;
 
     public LayerMask enemies;
-
 
 
    public Collider2D[] enemiesInRange;
     // Start is called before the first frame update
     void Start()
     {
-        animator = GetComponent<Animator>();
-        currentTime = Time.time;
-        lastTime = Time.time;
+        _animator = GetComponent<Animator>();
+        _currentTime = Time.time;
+        _lastTime = Time.time;
     }
 
     // Update is called once per frame
@@ -50,14 +49,14 @@ public class PlayerAttack : MonoBehaviour
             {
 
             //get current time
-            currentTime = Time.time;
+            _currentTime = Time.time;
             //if the time elapsed is greater that the interval set we let the animation go through and attack
-            if ( (currentTime - lastTime) >= timeBetweenAttacks)
+            if ( (_currentTime - _lastTime) >= timeBetweenAttacks)
             {   
                 //reset time
-                lastTime = Time.time;
+                _lastTime = Time.time;
                 //change animtation to attack
-                animator.SetTrigger("Attack");
+                _animator.SetTrigger("Attack");
 
                 //get the enemies in range of attack and add to array
                 enemiesInRange = Physics2D.OverlapCircleAll(attackPosition.position, attackRange, enemies);
@@ -71,7 +70,6 @@ public class PlayerAttack : MonoBehaviour
     //damage enemeies
     void DamageEnemy()
     {
-        Debug.Log("hit enemy with sword");
         for (int i = 0; i < enemiesInRange.Length; i++)
         {
             enemiesInRange[i].GetComponent<Enemy>().TakeDamage(damage);

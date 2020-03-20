@@ -5,24 +5,13 @@ using UnityEngine;
 public class Enemy : MonoBehaviour
 {
     public float health=10;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
+    //applies damage to enemy
     public void TakeDamage(int damage) {
-        Debug.Log("working");
 
-        health += -damage;
+        health += -damage; //takes damage
 
-        if (health <= 0)
+        if (health <= 0) //checks if player died
         {
             Destroy(this.gameObject);
         }

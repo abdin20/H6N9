@@ -136,17 +136,17 @@ PrefabInstance:
     - target: {fileID: 4971796196882636010, guid: 860e64ec533f6a845aa4706d5b3297d9,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.16
+      value: -1.02
       objectReference: {fileID: 0}
     - target: {fileID: 4971796196882636010, guid: 860e64ec533f6a845aa4706d5b3297d9,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -7.8
+      value: -6.31
       objectReference: {fileID: 0}
     - target: {fileID: 4971796196882636010, guid: 860e64ec533f6a845aa4706d5b3297d9,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 10
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4971796196882636010, guid: 860e64ec533f6a845aa4706d5b3297d9,
         type: 3}
@@ -544,8 +544,19 @@ PrefabInstance:
         type: 3}
       propertyPath: HeavyBandit
       value: 
-      objectReference: {fileID: 21300000, guid: b0c85c87c357f1e419e7baa683680dbc,
+      objectReference: {fileID: -8601251329661892248, guid: b0c85c87c357f1e419e7baa683680dbc,
         type: 3}
+    - target: {fileID: 2471692637380757117, guid: ac936d23c2e28d7458a8fc68b3bd4789,
+        type: 3}
+      propertyPath: Player
+      value: 
+      objectReference: {fileID: 107157965}
+    - target: {fileID: 2471692637380757117, guid: ac936d23c2e28d7458a8fc68b3bd4789,
+        type: 3}
+      propertyPath: CharacterAnimator
+      value: 
+      objectReference: {fileID: 22100000, guid: b810f2280bb2a6b4cbf996716e6e3d55,
+        type: 2}
     - target: {fileID: 2471692637380757118, guid: ac936d23c2e28d7458a8fc68b3bd4789,
         type: 3}
       propertyPath: m_LocalPosition.x

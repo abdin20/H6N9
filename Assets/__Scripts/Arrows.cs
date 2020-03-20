@@ -8,13 +8,7 @@ public class Arrows : MonoBehaviour
     public GameObject Arrow2;
     public float speed = 0.05f;
     public int direction = 1;
-      public Rigidbody2D arrow_vertForce;
-    // Start is called before the first frame update
-    private Rigidbody arrowRigid;
-    void Start()
-    {
-        
-    }
+    public Rigidbody2D arrow_vertForce;
 
     // Update is called once per frame
     void Update()
@@ -25,7 +19,7 @@ public class Arrows : MonoBehaviour
         }
         if (Arrow2 != null)
         {
-
+            //phase 3 code goes here
         }
 
     }

@@ -6,8 +6,8 @@ public class Player : MonoBehaviour {
     [SerializeField] float      m_speed = 1.0f;
     [SerializeField] float      m_jumpForce = 2.0f;
 
-    private Animator            animator;
-    private Rigidbody2D         playerRigidBody;
+    private Animator            _animator;
+    private Rigidbody2D         _playerRigidBody;
 
     public float health = 2;
 
@@ -15,8 +15,8 @@ public class Player : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
-        animator = GetComponent<Animator>();
-        playerRigidBody = GetComponent<Rigidbody2D>();
+        _animator = GetComponent<Animator>();
+        _playerRigidBody = GetComponent<Rigidbody2D>();
     }
 	
 	// Update is called once per frame
@@ -38,27 +38,27 @@ public class Player : MonoBehaviour {
 
 
         // Move
-        playerRigidBody.velocity = new Vector2(inputX * m_speed, playerRigidBody.velocity.y);
+        _playerRigidBody.velocity = new Vector2(inputX * m_speed, _playerRigidBody.velocity.y);
 
         
 
         //Animations
-        animator.SetInteger("AnimState", 0);
+        _animator.SetInteger("AnimState", 0);
    
 
         //Jump if player hits space
-        if (Input.GetKeyDown("space") && playerRigidBody.velocity.y==0) {
+        if (Input.GetKeyDown("space") && _playerRigidBody.velocity.y==0) {
        
-            playerRigidBody.velocity = new Vector2(playerRigidBody.velocity.x, m_jumpForce);
+            _playerRigidBody.velocity = new Vector2(_playerRigidBody.velocity.x, m_jumpForce);
 
         }  //Run
         else if (Mathf.Abs(inputX) > Mathf.Epsilon)
         {
-            animator.SetInteger("AnimState", 2);
+            _animator.SetInteger("AnimState", 2);
         }
         else  //if no other animation  then the player is idling
         {
-           animator.SetInteger("AnimState", 0);
+           _animator.SetInteger("AnimState", 0);
         }
             
     }
@@ -74,7 +74,7 @@ public class Player : MonoBehaviour {
             if (shield == null)
             {
                 Debug.Log("hit by enemy");
-                animator.SetTrigger("Hurt");
+                _animator.SetTrigger("Hurt");
                 health += -1;
 
                 if (health <= 0)

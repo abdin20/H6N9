@@ -7,10 +7,12 @@ public class Customization : MonoBehaviour
 {
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
-    private int characterCount = 2;
+    private int _characterCount = 2;
     public int weaponCount;
-    private int currentCharacterCount;
-    private int currentWeaponCount;
+    private int _currentCharacterCount;
+    private int _currentWeaponCount;
+    public GameObject Player;
+    public AnimatorOverrideController CharacterAnimator;
 
     public Sprite LightBandit;
     public Sprite HeavyBandit;
@@ -24,8 +26,8 @@ public class Customization : MonoBehaviour
     void Awake()
     {
         Resume();
-        currentCharacterCount = 1;
-        currentWeaponCount = 1;
+        _currentCharacterCount = 1;
+        _currentWeaponCount = 1;
     }
 
     void Update()
@@ -58,14 +60,14 @@ public class Customization : MonoBehaviour
 
     public void ChangeCharacterLeft()
     {
-        if(currentCharacterCount != 1)
+        if(_currentCharacterCount != 1)
         {
-            currentCharacterCount--;
+            _currentCharacterCount--;
             instantiateCharacter();
         }
         else
         {
-            currentCharacterCount = characterCount;
+            _currentCharacterCount = _characterCount;
             instantiateCharacter();
         }
 
@@ -73,74 +75,101 @@ public class Customization : MonoBehaviour
 
     public void ChangeCharacterRight()
     {
-        if (currentCharacterCount != characterCount)
+        if (_currentCharacterCount != _characterCount)
         {
-            currentCharacterCount++;
+            _currentCharacterCount++;
             instantiateCharacter();
         }
         else
         {
-            currentCharacterCount = 1;
+            _currentCharacterCount = 1;
             instantiateCharacter();
         }
     }
 
     public void ChangeWeaponLeft()
     {
-        if (currentWeaponCount != 1)
+        if (_currentWeaponCount != 1)
         {
-            currentWeaponCount--;
+            _currentWeaponCount--;
             instantiateWeapon();
         }
         else
         {
-            currentWeaponCount = weaponCount;
+            _currentWeaponCount = weaponCount;
             instantiateWeapon();
         }
     }
 
     public void ChangeWeaponRight()
     {
-        if (currentWeaponCount != weaponCount)
+        if (_currentWeaponCount != weaponCount)
         {
-            currentWeaponCount++;
+            _currentWeaponCount++;
             instantiateWeapon();
         }
         else
         {
-            currentWeaponCount = 1;
+            _currentWeaponCount = 1;
             instantiateWeapon();
         }
     }
 
     void instantiateCharacter()
     {
-        if (currentCharacterCount == 1)
+        if (_currentCharacterCount == 1)
         {
             Characters.sprite = LightBandit;
         }
-        else if(currentCharacterCount == 2)
+        else if(_currentCharacterCount == 2)
         {
             Characters.sprite = HeavyBandit;
+            CreateCharacter("heavy");
         }
     }
 
     void instantiateWeapon()
     {
-        if (currentWeaponCount == 1)
+        if (_currentWeaponCount == 1)
         {
             Weapons.sprite = Sword;
+            //SetWeapon(1);
         }
-        else if(currentWeaponCount == 2)
+        else if(_currentWeaponCount == 2)
         {
             Weapons.sprite = Sword2;
+            //SetWeapon(2);
         }
-        else if(currentWeaponCount == 3)
+        else if(_currentWeaponCount == 3)
         {
             Weapons.sprite = Sword3;
+            //SetWeapon(3);
         }
     }
     
+    public void CreateCharacter(string name)
+    {
+        if (name == "heavy")
+        {
+
+            GameObject Character = new GameObject();
+            Character.name = "Player";
+            Character.AddComponent<Rigidbody2D>();
+            Character.AddComponent<SpriteRenderer>();
+            //Character.AddComponent<Player>();
+            Character.AddComponent<Animation>();
+            Character.GetComponent<SpriteRenderer>().sprite = HeavyBandit;
+
+            Character.transform.position = new Vector3(1f, -8f, 10f);
+
+
+            //Animator anim = Player.GetComponent<Animator>();
+            Player.GetComponent<SpriteRenderer>().color = Color.blue;
+            //Player.GetComponent<Animator>().runtimeAnimatorController = CharacterAnimator;
+            //anim.runtimeAnimatorController = Resources.Load("HeavyBandit_AnimController") as RuntimeAnimatorController;
+
+        }
+    }
 
     //button.GetComponent<Image>().sprite = Image1;
 

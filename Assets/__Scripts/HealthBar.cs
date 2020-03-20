@@ -10,9 +10,6 @@ public class HealthBar : MonoBehaviour
     public GameObject player;
     public string playerHealth;
 
-
-
-
     // Start is called before the first frame update
     void Start()
     {
@@ -26,9 +23,8 @@ public class HealthBar : MonoBehaviour
     }
     public void setCountText()
     {
-        playerHealth = (player.GetComponent<Player>().health).ToString();
-        Debug.Log(playerHealth);
-        healthText.text = "Health left: " + playerHealth;
+        playerHealth = (player.GetComponent<Player>().health).ToString(); //getting player health
+        healthText.text = "Health left: " + playerHealth; //setting text of player health
 
     }
 }
