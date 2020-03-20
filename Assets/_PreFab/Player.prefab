@@ -218,10 +218,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9be82a2d37f70f64286510f779254814, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTimeAttack: 0
+  timeBetweenAttacks: 1
   attackPosition: {fileID: 4971796196393515548}
   attackRange: 1
   damage: 1
   enemies:
     serializedVersion: 2
     m_Bits: 256
+  enemiesInRange: []

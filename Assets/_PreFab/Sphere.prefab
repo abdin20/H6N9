@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4170095274319821470}
   - component: {fileID: 7025863615652422891}
   - component: {fileID: 2932496202364617988}
+  - component: {fileID: -7868696117628520622}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -118,3 +119,15 @@ CapsuleCollider2D:
   m_Offset: {x: 0, y: 0}
   m_Size: {x: 0.9, y: 0.9}
   m_Direction: 0
+--- !u!114 &-7868696117628520622
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 922858883143843308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cdec6c9f8cdf14baf3d202e7ba9c0b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

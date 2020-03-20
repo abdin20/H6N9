@@ -21,7 +21,6 @@ public class Player : MonoBehaviour {
 	void Update () {
       
 
-
         // Handle input
         float inputX = Input.GetAxis("Horizontal");
 
@@ -68,7 +67,7 @@ public class Player : MonoBehaviour {
     {   
         //if hit by enemy lower health and use hurt animation
         if(other.gameObject.tag == "enemy")
-        {
+        {   
             Debug.Log("hit by enemy");
             animator.SetTrigger("Hurt");
             health += -1;
