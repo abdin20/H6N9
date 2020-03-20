@@ -16,10 +16,10 @@ public class Customization : MonoBehaviour
     public Sprite HeavyBandit;
     public Sprite Sword;
     public Sprite Sword2;
-    public Sprite Sword3;
+    public Sprite Sword3;   
 
-    public Image CharacterIcon;
-    public Image WeaponIcon;
+    public Image Characters;
+    public Image Weapons;
 
     void Awake()
     {
@@ -115,31 +115,32 @@ public class Customization : MonoBehaviour
 
     void instantiateCharacter()
     {
-        if(currentCharacterCount == 1)
+        if (currentCharacterCount == 1)
         {
-
+            Characters.sprite = LightBandit;
         }
         else if(currentCharacterCount == 2)
         {
-
+            Characters.sprite = HeavyBandit;
         }
     }
 
     void instantiateWeapon()
     {
-        if(currentWeaponCount == 1)
+        if (currentWeaponCount == 1)
         {
-            WeaponIcon.sprite = Sword;
+            Weapons.sprite = Sword;
         }
         else if(currentWeaponCount == 2)
         {
-            WeaponIcon.sprite = Sword2;
+            Weapons.sprite = Sword2;
         }
         else if(currentWeaponCount == 3)
         {
-            WeaponIcon.sprite = Sword3;
+            Weapons.sprite = Sword3;
         }
     }
+    
 
     //button.GetComponent<Image>().sprite = Image1;
 

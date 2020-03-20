@@ -810,14 +810,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 859949086}
-  weaponCount: 1
-  LightBandit: {fileID: 0}
-  HeavyBandit: {fileID: 0}
+  weaponCount: 3
+  LightBandit: {fileID: 21300000, guid: f2ed27d6c1c3ccc48959bcca269d88f0, type: 3}
+  HeavyBandit: {fileID: 21300000, guid: 317b8365a4649ab459f6cb58ec8f9f18, type: 3}
   Sword: {fileID: 21300000, guid: c7766f64ce9a70842bce39f64b1155e6, type: 3}
   Sword2: {fileID: 21300000, guid: 667fbca3f116629408a98cf6954373a9, type: 3}
   Sword3: {fileID: 21300000, guid: 4ccb3c7fdabb01745a1aaaebb7ef45ae, type: 3}
-  CharacterIcon: {fileID: 0}
-  WeaponIcon: {fileID: 0}
+  Characters: {fileID: 1134534068}
+  Weapons: {fileID: 2139088383}
 --- !u!1 &1071992458
 GameObject:
   m_ObjectHideFlags: 0

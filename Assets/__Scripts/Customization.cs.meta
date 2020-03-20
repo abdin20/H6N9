@@ -3,7 +3,15 @@ guid: d29d5c3e21d662545aa70369557a10d4
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - pauseMenuUI: {instanceID: 0}
+  - LightBandit: {instanceID: 0}
+  - HeavyBandit: {instanceID: 0}
+  - Sword: {instanceID: 0}
+  - Sword2: {instanceID: 0}
+  - Sword3: {instanceID: 0}
+  - Characters: {instanceID: 0}
+  - Weapons: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
