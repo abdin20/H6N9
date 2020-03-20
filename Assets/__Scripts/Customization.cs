@@ -1,16 +1,33 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Customization : MonoBehaviour
 {
     public static bool GameIsPaused = false;
     public GameObject pauseMenuUI;
+    private int characterCount = 2;
+    public int weaponCount;
+    private int currentCharacterCount;
+    private int currentWeaponCount;
+
+    public Sprite LightBandit;
+    public Sprite HeavyBandit;
+    public Sprite Sword;
+    public Sprite Sword2;
+    public Sprite Sword3;
+
+    public Image CharacterIcon;
+    public Image WeaponIcon;
 
     void Awake()
     {
         Resume();
+        currentCharacterCount = 1;
+        currentWeaponCount = 1;
     }
+
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
@@ -25,7 +42,7 @@ public class Customization : MonoBehaviour
         }
     }
 
-    void Resume()
+    public void Resume()
     {
         pauseMenuUI.SetActive(false);
         Time.timeScale = 1f;
@@ -39,25 +56,92 @@ public class Customization : MonoBehaviour
         GameIsPaused = true;
     }
 
-    /*void OpenMenu()
+    public void ChangeCharacterLeft()
     {
+        if(currentCharacterCount != 1)
+        {
+            currentCharacterCount--;
+            instantiateCharacter();
+        }
+        else
+        {
+            currentCharacterCount = characterCount;
+            instantiateCharacter();
+        }
 
     }
 
-    void CloseMenu()
+    public void ChangeCharacterRight()
     {
-
+        if (currentCharacterCount != characterCount)
+        {
+            currentCharacterCount++;
+            instantiateCharacter();
+        }
+        else
+        {
+            currentCharacterCount = 1;
+            instantiateCharacter();
+        }
     }
 
-    void ChangeCharacter()
+    public void ChangeWeaponLeft()
     {
-
+        if (currentWeaponCount != 1)
+        {
+            currentWeaponCount--;
+            instantiateWeapon();
+        }
+        else
+        {
+            currentWeaponCount = weaponCount;
+            instantiateWeapon();
+        }
     }
 
-    void ChangeWeapon()
+    public void ChangeWeaponRight()
     {
+        if (currentWeaponCount != weaponCount)
+        {
+            currentWeaponCount++;
+            instantiateWeapon();
+        }
+        else
+        {
+            currentWeaponCount = 1;
+            instantiateWeapon();
+        }
+    }
 
-    }*/
+    void instantiateCharacter()
+    {
+        if(currentCharacterCount == 1)
+        {
+
+        }
+        else if(currentCharacterCount == 2)
+        {
+
+        }
+    }
+
+    void instantiateWeapon()
+    {
+        if(currentWeaponCount == 1)
+        {
+            WeaponIcon.sprite = Sword;
+        }
+        else if(currentWeaponCount == 2)
+        {
+            WeaponIcon.sprite = Sword2;
+        }
+        else if(currentWeaponCount == 3)
+        {
+            WeaponIcon.sprite = Sword3;
+        }
+    }
+
+    //button.GetComponent<Image>().sprite = Image1;
 
 }
 
