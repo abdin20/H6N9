@@ -8,6 +8,7 @@ public class HealthBar : MonoBehaviour
 {
     public Text healthText;
     public GameObject player;
+    public string playerHealth;
 
 
 
@@ -21,15 +22,13 @@ public class HealthBar : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
         setCountText();
-
     }
     public void setCountText()
     {
-        Debug.Log("in count");
-        Debug.Log(player.GetComponent<Player>().health);
-        healthText.text = "Health left:" + player.GetComponent<Player>().health;
+        playerHealth = (player.GetComponent<Player>().health).ToString();
+        Debug.Log(playerHealth);
+        healthText.text = "Health left: " + playerHealth;
 
     }
 }
