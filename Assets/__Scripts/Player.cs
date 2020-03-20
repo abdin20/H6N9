@@ -89,5 +89,14 @@ public class Player : MonoBehaviour {
             }
 
         }
+
+        //if if hit flag we win
+        if (other.gameObject.tag == "Respawn")
+        {
+                
+         Application.LoadLevel(Application.loadedLevel);
+    
+        }
+
     }
 }

@@ -298,7 +298,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_speed: 6
-  m_jumpForce: 6
+  m_jumpForce: 8
   health: 2
   shield: {fileID: 25850932}
 --- !u!114 &4971796196882636011
