@@ -9,6 +9,8 @@ public class Player : MonoBehaviour {
     private Animator            animator;
     private Rigidbody2D         playerRigidBody;
 
+    public float health = 2;
+
     // Use this for initialization
     void Start () {
         animator = GetComponent<Animator>();
@@ -41,13 +43,10 @@ public class Player : MonoBehaviour {
 
         //Animations
         animator.SetInteger("AnimState", 0);
-        //Attack animation 
-        if (Input.GetMouseButtonDown(0)) {
-            animator.SetTrigger("Attack");
-        }
+   
 
         //Jump if player hits space
-        else if (Input.GetKeyDown("space") && playerRigidBody.velocity.y==0) {
+        if (Input.GetKeyDown("space") && playerRigidBody.velocity.y==0) {
        
             playerRigidBody.velocity = new Vector2(playerRigidBody.velocity.x, m_jumpForce);
 
@@ -61,5 +60,24 @@ public class Player : MonoBehaviour {
            animator.SetInteger("AnimState", 0);
         }
             
+    }
+
+   
+    //collision event
+    private void OnTriggerEnter2D(Collider2D other)
+    {   
+        //if hit by enemy lower health and use hurt animation
+        if(other.gameObject.tag == "enemy")
+        {
+            Debug.Log("hit by enemy");
+            animator.SetTrigger("Hurt");
+            health += -1;
+
+            if (health <= 0)
+            {
+                Application.LoadLevel(Application.loadedLevel);
+            }
+
+        }
     }
 }
