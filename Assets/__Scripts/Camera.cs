@@ -5,7 +5,6 @@ using UnityEngine;
 public class Camera : MonoBehaviour
 {
 
-    public GameObject preFabPlayer;
     public GameObject preFabEagle;
 
     public GameObject player;
@@ -20,7 +19,7 @@ public class Camera : MonoBehaviour
     {   
         //set the offset of the camera only on the x axis
        
-        player = Instantiate(preFabPlayer, playerPos, Quaternion.identity);
+   
 
         eagle= Instantiate(preFabEagle, eaglePos, Quaternion.identity);
         offset = new Vector3(transform.position.x - player.transform.position.x, transform.position.y, transform.position.z);
