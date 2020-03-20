@@ -11,6 +11,8 @@ public class Player : MonoBehaviour {
 
     public float health = 2;
 
+    public GameObject shield;
+
     // Use this for initialization
     void Start () {
         animator = GetComponent<Animator>();
@@ -66,15 +68,24 @@ public class Player : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D other)
     {   
         //if hit by enemy lower health and use hurt animation
-        if(other.gameObject.tag == "enemy")
-        {   
-            Debug.Log("hit by enemy");
-            animator.SetTrigger("Hurt");
-            health += -1;
-
-            if (health <= 0)
+        if(other.gameObject.tag == "enemy" )
+        {
+              //if player does not have shield 
+            if (shield == null)
             {
-                Application.LoadLevel(Application.loadedLevel);
+                Debug.Log("hit by enemy");
+                animator.SetTrigger("Hurt");
+                health += -1;
+
+                if (health <= 0)
+                {
+                    Application.LoadLevel(Application.loadedLevel);
+                }
+
+            }
+            else //he has shield so no health is lost but we destroy the shield
+            {
+                Destroy(shield);
             }
 
         }
