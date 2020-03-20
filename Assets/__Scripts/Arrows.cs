@@ -6,13 +6,14 @@ public class Arrows : MonoBehaviour
 {
     public GameObject Arrow;
     public GameObject Arrow2;
-    public float speed = 0.01f;
+    public float speed = 0.05f;
     public int direction = 1;
+      public Rigidbody2D arrow_vertForce;
     // Start is called before the first frame update
- 
+    private Rigidbody arrowRigid;
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -24,7 +25,7 @@ public class Arrows : MonoBehaviour
         }
         if (Arrow2 != null)
         {
-            Arrow2.transform.position = Arrow2.transform.position + new Vector3(speed * direction, 0, 0);
+
         }
 
     }
@@ -32,30 +33,42 @@ public class Arrows : MonoBehaviour
     {
         //spawn arrows
         //check location
-        if (Arrow2 == null)
+        if (Arrow2 == null) //only create the arrows when 1 isnt active
         {
-            Arrow2 = Instantiate(Arrow, new Vector3(transform.position.x,transform.position.y + 0.8f , 0), Quaternion.identity);
-            Invoke("arrowDelay", 1f);
-            if (GetComponent<SpriteRenderer>().flipX == true)
+           if (GetComponent<SpriteRenderer>().flipX == true) //this means charactor is facing right
             {
-                direction = 1;
-                Arrow2.transform.Rotate(new Vector3(0, 0, 0));
+                Arrow2 = Instantiate(Arrow, new Vector3(transform.position.x + 0.7f,transform.position.y + 0.8f , 0), Quaternion.identity); //create the arrow on mouse click
             }
             else
             {
-                direction = -1;
-                Arrow2.transform.Rotate(new Vector3(0, 180, 0));
+                Arrow2 = Instantiate(Arrow, new Vector3(transform.position.x - 0.7f,transform.position.y + 0.8f , 0), Quaternion.identity); //create the arrow on mouse click
+            }
+            
+            arrow_vertForce = Arrow2.GetComponent<Rigidbody2D>();
+            //arrow_vertForce.AddForce(new Vector3(3f,3f,0f),ForceMode.Impulse);
+            Invoke("arrowDelay", 2f);
+            if (GetComponent<SpriteRenderer>().flipX == true) //this means charactor is facing right
+            {
+                direction = 1; //set to normal direction
+                Arrow2.transform.Rotate(new Vector3(0, 0, 0)); //set to normal rotation
+                arrow_vertForce.AddForce(new Vector3(10f*direction,3f),ForceMode2D.Impulse);
+            }
+            else
+            {
+                direction = -1; //set to reverse direction
+                Arrow2.transform.Rotate(new Vector3(0, 180, 0)); //rotate the prefab
+                arrow_vertForce.AddForce(new Vector3(10f*direction,3f,0f),ForceMode2D.Impulse);
             }
         }
         else
-        {
+        { //this runs while and arrow is already active therefore doing nothing until the other arrow is destoryed
 
         }
 
     }
     public void arrowDelay()
     {
-        Debug.Log("yo");
-        Destroy(Arrow2);
+        Destroy(Arrow2); //after the invoke delay, destory the arrow
     }
+    
 }
