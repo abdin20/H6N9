@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FireBall : MonoBehaviour
+public class FireBall : Arrows
 {
     //collision event
     private void OnTriggerEnter2D(Collider2D other)
@@ -13,5 +13,19 @@ public class FireBall : MonoBehaviour
             //enemy takes damage
             other.gameObject.GetComponent<Enemy>().TakeDamage(1);
         }
+    }
+
+
+    public override void Update()
+    {
+       //phase 3
+
+    }
+
+
+    public override void OnMouseClick()
+    {
+        
+        //phase 3
     }
 }

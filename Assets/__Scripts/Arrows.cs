@@ -11,7 +11,7 @@ public class Arrows : MonoBehaviour
     public Rigidbody2D arrow_vertForce;
 
     // Update is called once per frame
-    void Update()
+    public virtual void Update()
     {
         if (Input.GetMouseButtonDown(1))
         {
@@ -23,7 +23,7 @@ public class Arrows : MonoBehaviour
         }
 
     }
-    public void OnMouseClick()
+    public virtual void OnMouseClick()
     {
         //spawn arrows
         //check location
