@@ -4,16 +4,16 @@ using UnityEngine;
 
 public class Enemy : MonoBehaviour
 {
-    public float health=10;
+
+    public float health;
+   
+
+   
 
     //applies damage to enemy
-    public void TakeDamage(int damage) {
+    public virtual void TakeDamage(int damage) { }
 
-        health += -damage; //takes damage
-
-        if (health <= 0) //checks if player died
-        {
-            Destroy(this.gameObject);
-        }
-    }
+    public virtual void Move() { }
+    //aaaa
+    
 }

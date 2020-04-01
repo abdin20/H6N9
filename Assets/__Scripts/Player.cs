@@ -98,5 +98,68 @@ public class Player : MonoBehaviour {
     
         }
 
+
+        //if hit by enemy projectile lower health and use hurt animation
+        if (other.gameObject.tag == "projectile")
+        {   
+            //destory the projectile immediately
+            Destroy(other.gameObject);
+            //if player does not have shield 
+            if (shield == null)
+            {
+                Debug.Log("hit by enemy");
+                _animator.SetTrigger("Hurt");
+                health += -1;
+
+            
+                 //if less than 0 health restart game
+                if (health <= 0)
+                {
+                    Application.LoadLevel(Application.loadedLevel);
+                }
+
+            }
+            else //he has shield so no health is lost but we destroy the shield
+            {
+                Destroy(shield);
+            }
+
+        }
+
+    }
+
+
+    void OnCollisionEnter2D(Collision2D col)
+    {   
+        //if its a projectile 
+        if (col.gameObject.tag == "projectile")
+        {
+
+            //destory the projectile immediately
+            Destroy(col.gameObject);
+            //if player does not have shield lower health
+            if (shield == null)
+            {
+                Debug.Log("hit by projectile");
+                _animator.SetTrigger("Hurt"); //set animation to hurt
+                health += -1;                 //lower health
+
+
+                //if less than 0 health restart game
+                if (health <= 0)
+                {
+                    Application.LoadLevel(Application.loadedLevel);
+                }
+
+            }
+            else //he has shield so no health is lost but we destroy the shield
+            {
+                Destroy(shield);
+            }
+
+
+
+
+        }
     }
 }
