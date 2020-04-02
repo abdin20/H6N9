@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 4971796196882636011}
   m_Layer: 0
   m_Name: Player
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -172,8 +172,8 @@ CapsuleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.019778764, y: 0.001752615}
-  m_Size: {x: 0.28113964, y: 0.4699687}
+  m_Offset: {x: -0.019778764, y: 0.015351153}
+  m_Size: {x: 0.28113964, y: 0.40197632}
   m_Direction: 0
 --- !u!114 &4971796196882636013
 MonoBehaviour:
@@ -206,9 +206,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_speed: 6
   m_jumpForce: 8
-  health: 2
+  health: 3
   score: 0
-  shield: {fileID: 0}
+  key: 0
+  shield: {fileID: 6925809112470913373}
+  prefabShield: {fileID: 2394049231249544623, guid: bc2fbcdd87eea804e94ad62088e8df67,
+    type: 3}
 --- !u!114 &4971796196882636011
 MonoBehaviour:
   m_ObjectHideFlags: 0

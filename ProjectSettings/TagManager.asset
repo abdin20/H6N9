@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Potion
   - shieldpotion
+  - key
   layers:
   - Default
   - TransparentFX

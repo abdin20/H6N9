@@ -13,12 +13,15 @@ public class Player : MonoBehaviour {
     public float health = 2;
     public int score = 0;
 
+    public bool key;
+
     public GameObject shield;
     public GameObject prefabShield;
     // Use this for initialization
     void Start () {
         _animator = GetComponent<Animator>();
         _playerRigidBody = GetComponent<Rigidbody2D>();
+        key = false;
     }
 	
 	// Update is called once per frame
@@ -107,9 +110,9 @@ public class Player : MonoBehaviour {
         //if if hit flag we win
         if (other.gameObject.tag == "Respawn")
         {
-                
-         Application.LoadLevel(Application.loadedLevel);
-    
+
+            SceneManager.LoadScene("LevelTwoScene", LoadSceneMode.Single);
+
         }
 
 
@@ -180,9 +183,14 @@ public class Player : MonoBehaviour {
                 shield.transform.position = new Vector2(shield.transform.position.x,20000);
             }
 
+        }
 
-
-
+        //if its a key 
+        if(col.gameObject.tag == "key")
+        {   
+            //player know has key so set true
+            key = true;
+            Destroy(col.gameObject); //destroy the key once collided
         }
     }
 }
