@@ -47,6 +47,7 @@ public class Eagle : Enemy
         if (health <= 0) //checks if player died
         {
             Destroy(this.gameObject);
+            player.GetComponent<Player>().score += 1; //add score once player kills eagle
         }
     }
 

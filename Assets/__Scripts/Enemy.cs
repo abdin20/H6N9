@@ -6,6 +6,7 @@ public class Enemy : MonoBehaviour
 {
 
     public float health;
+    public GameObject player; //every enemy has refernce to the player
    
 
    
@@ -13,7 +14,8 @@ public class Enemy : MonoBehaviour
     //applies damage to enemy
     public virtual void TakeDamage(int damage) { }
 
+    //every enemy moves differently
     public virtual void Move() { }
-    //aaaa
+  
     
 }

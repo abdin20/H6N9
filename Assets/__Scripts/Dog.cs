@@ -19,7 +19,6 @@ public class Dog : Enemy
     public float range;
 
     public GameObject preFabFireBall;
-    public GameObject player;
     private GameObject _fireBall;
 
     public float thrust;
@@ -52,6 +51,7 @@ public class Dog : Enemy
         if (health <= 0) //checks if player died
         {
             Destroy(this.gameObject);
+            player.GetComponent<Player>().score += 2; //add score to player
         }
     }
 

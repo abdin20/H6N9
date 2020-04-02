@@ -451,16 +451,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 46a8d32158ba9814db9b28a84419c3e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  preFabEagle: {fileID: 7863603972327444117, guid: ec1115a01af03db43b6dfcd90109c306,
-    type: 3}
-  preFabDog: {fileID: 7333096174536673085, guid: 376624719e3d3b144b679c7df41faa5c,
-    type: 3}
   player: {fileID: 939339890}
-  eagle: {fileID: 0}
   offset: {x: 0, y: 0, z: 0}
-  eaglePos: {x: 2, y: -5}
   playerPos: {x: 0, y: -6.7}
-  dogPos: {x: -999, y: -999}
 --- !u!1001 &679799875
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -468,6 +461,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -1897469399685102254, guid: ec1115a01af03db43b6dfcd90109c306,
+        type: 3}
+      propertyPath: player
+      value: 
+      objectReference: {fileID: 939339890}
     - target: {fileID: 7863603972327444117, guid: ec1115a01af03db43b6dfcd90109c306,
         type: 3}
       propertyPath: m_Name
