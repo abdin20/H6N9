@@ -134,7 +134,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Arrow: {fileID: 0}
-  Arrow2: {fileID: 0}
+  Arrow2: {fileID: 5839265621600814866, guid: c3759e86736a3e646bb9d40ec9b7e331, type: 3}
   speed: 0.05
   direction: 1
   arrow_vertForce: {fileID: 0}
