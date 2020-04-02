@@ -9,22 +9,19 @@ public class ScoreBoard : MonoBehaviour
     public Text scoreText;
     public GameObject player;
     public string playerScore;
-
-    // Start is called before the first frame update
     void Start()
     {
-        GameObject player = GameObject.Find("Player");
+        GameObject player = GameObject.Find("Player"); //find the player object
     }
 
-    // Update is called once per frame
-    void Update()
+    void LateUpdate()
     {
-        setScoreText();
+        setScoreText(); //run the score method eachframe
     }
     public void setScoreText()
     {
-        playerScore = (player.GetComponent<Player>().score).ToString(); //getting player health
-        scoreText.text = "Score: " + playerScore; //setting text of player health
+        playerScore = (player.GetComponent<Player>().score).ToString(); //getting score
+        scoreText.text = "Score: " + playerScore; //setting score
 
     }
 }

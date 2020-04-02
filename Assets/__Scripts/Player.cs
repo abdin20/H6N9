@@ -80,13 +80,12 @@ public class Player : MonoBehaviour {
               //if player does not have shield 
             if (shield.transform.position.y >= 20000)
             {
-                Debug.Log("hit by enemy");
                 _animator.SetTrigger("Hurt");
                 health += -1;
 
                 if (health <= 0)
                 {
-                    Application.LoadLevel(Application.loadedLevel);
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 }
 
             }
@@ -132,7 +131,7 @@ public class Player : MonoBehaviour {
                  //if less than 0 health restart game
                 if (health <= 0)
                 {
-                    Application.LoadLevel(Application.loadedLevel);
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 }
 
             }
@@ -171,7 +170,6 @@ public class Player : MonoBehaviour {
             //if player does not have shield lower health
             if (shield.transform.position.y >= 20000)
             {
-                Debug.Log("hit by projectile");
                 _animator.SetTrigger("Hurt"); //set animation to hurt
                 health += -1;                 //lower health
 
@@ -179,7 +177,7 @@ public class Player : MonoBehaviour {
                 //if less than 0 health restart game
                 if (health <= 0)
                 {
-                    Application.LoadLevel(Application.loadedLevel);
+                    SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 }
 
             }

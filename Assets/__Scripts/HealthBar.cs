@@ -10,16 +10,16 @@ public class HealthBar : MonoBehaviour
     public GameObject player;
     public string playerHealth;
 
-    // Start is called before the first frame update
+    
     void Start()
     {
-        GameObject player = GameObject.Find("Player");
+        GameObject player = GameObject.Find("Player"); //find the player object
     }
 
-    // Update is called once per frame
+
     void Update()
     {
-        setCountText();
+        setCountText(); //run the method every frame
     }
     public void setCountText()
     {

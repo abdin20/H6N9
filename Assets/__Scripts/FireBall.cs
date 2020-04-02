@@ -14,18 +14,4 @@ public class FireBall : Arrows
             other.gameObject.GetComponent<Enemy>().TakeDamage(1);
         }
     }
-
-
-    public override void Update()
-    {
-       //phase 3
-
-    }
-
-
-    public override void OnMouseClick()
-    {
-        
-        //phase 3
-    }
 }
