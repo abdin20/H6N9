@@ -19,7 +19,7 @@ public class Arrows : MonoBehaviour
         }
         if (Arrow2 != null)
         {
-            //phase 3 code goes here
+            //do nothing if arrow already present
         }
 
     }

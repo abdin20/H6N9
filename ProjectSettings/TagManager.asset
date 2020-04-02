@@ -10,6 +10,7 @@ TagManager:
   - Potion
   - shieldpotion
   - key
+  - goldchest
   layers:
   - Default
   - TransparentFX

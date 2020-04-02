@@ -157,6 +157,11 @@ public class Player : MonoBehaviour {
 
     void OnCollisionEnter2D(Collision2D col)
     {   
+        if (col.gameObject.tag == "Coin"){ //collides with coin
+            score++;  //add score
+            Destroy(col.gameObject); //destroy the coin
+
+        }
         //if its a projectile 
         if (col.gameObject.tag == "projectile")
         {
