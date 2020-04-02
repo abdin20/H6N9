@@ -20,7 +20,7 @@ public class Camera : MonoBehaviour
       
             
         //set the offset of the camera only on the x axis
-        offset = new Vector3(transform.position.x - player.transform.position.x, transform.position.y, transform.position.z);
+        offset = new Vector3(transform.position.x - player.transform.position.x, transform.position.y - player.transform.position.y, transform.position.z);
     }
 
     // Update is called once per frame
@@ -28,6 +28,6 @@ public class Camera : MonoBehaviour
     {   
         
         //add the offset every frame so it follows the player
-        transform.position = new Vector3(player.transform.position.x + offset.x, offset.y, transform.position.z);
+        transform.position = new Vector3(player.transform.position.x + offset.x, player.transform.position.y + offset.y, transform.position.z);
     }
 }
