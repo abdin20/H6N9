@@ -1,0 +1,3751 @@
+fileFormatVersion: 2
+guid: d2bfa748ca5f5d3449044c28fc4539e8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5893739488309400049
+    second: pngfind.com-castlevania-png-6628480_0
+  - first:
+      213: -9141626268539314719
+    second: pngfind.com-castlevania-png-6628480_1
+  - first:
+      213: 1244328967679319936
+    second: pngfind.com-castlevania-png-6628480_2
+  - first:
+      213: 5187740980432605991
+    second: pngfind.com-castlevania-png-6628480_3
+  - first:
+      213: -3085210888685820231
+    second: pngfind.com-castlevania-png-6628480_4
+  - first:
+      213: 7754276131171171595
+    second: pngfind.com-castlevania-png-6628480_5
+  - first:
+      213: 5555643249949325353
+    second: pngfind.com-castlevania-png-6628480_6
+  - first:
+      213: -8847084765872600765
+    second: pngfind.com-castlevania-png-6628480_7
+  - first:
+      213: 2022177891359473945
+    second: pngfind.com-castlevania-png-6628480_8
+  - first:
+      213: -1535707713581187107
+    second: pngfind.com-castlevania-png-6628480_9
+  - first:
+      213: 1678763651117349309
+    second: pngfind.com-castlevania-png-6628480_10
+  - first:
+      213: -2756045433926268089
+    second: pngfind.com-castlevania-png-6628480_11
+  - first:
+      213: -1719595127677184139
+    second: pngfind.com-castlevania-png-6628480_12
+  - first:
+      213: 6548230711552240773
+    second: pngfind.com-castlevania-png-6628480_13
+  - first:
+      213: -9167283067563527743
+    second: pngfind.com-castlevania-png-6628480_14
+  - first:
+      213: 7710323332869104956
+    second: pngfind.com-castlevania-png-6628480_15
+  - first:
+      213: -2293428827847006311
+    second: pngfind.com-castlevania-png-6628480_16
+  - first:
+      213: 8415160466320063613
+    second: pngfind.com-castlevania-png-6628480_17
+  - first:
+      213: 2889409223468080903
+    second: pngfind.com-castlevania-png-6628480_18
+  - first:
+      213: -8527085761856361015
+    second: pngfind.com-castlevania-png-6628480_19
+  - first:
+      213: -5231124990096582998
+    second: pngfind.com-castlevania-png-6628480_20
+  - first:
+      213: -5108182626759476819
+    second: pngfind.com-castlevania-png-6628480_21
+  - first:
+      213: -32869276637184237
+    second: pngfind.com-castlevania-png-6628480_22
+  - first:
+      213: -5070661726754747319
+    second: pngfind.com-castlevania-png-6628480_23
+  - first:
+      213: -8774620967406038821
+    second: pngfind.com-castlevania-png-6628480_24
+  - first:
+      213: -4930320966891342457
+    second: pngfind.com-castlevania-png-6628480_25
+  - first:
+      213: -3825496503902484039
+    second: pngfind.com-castlevania-png-6628480_26
+  - first:
+      213: 8232926244409131191
+    second: pngfind.com-castlevania-png-6628480_27
+  - first:
+      213: 6956265033758641151
+    second: pngfind.com-castlevania-png-6628480_28
+  - first:
+      213: -5241922410332192446
+    second: pngfind.com-castlevania-png-6628480_29
+  - first:
+      213: -3349063391737122605
+    second: pngfind.com-castlevania-png-6628480_30
+  - first:
+      213: 756130961000664308
+    second: pngfind.com-castlevania-png-6628480_31
+  - first:
+      213: 603196083822215154
+    second: pngfind.com-castlevania-png-6628480_32
+  - first:
+      213: -1139758758284964097
+    second: pngfind.com-castlevania-png-6628480_33
+  - first:
+      213: 5656929408332239114
+    second: pngfind.com-castlevania-png-6628480_34
+  - first:
+      213: -1194575099283416784
+    second: pngfind.com-castlevania-png-6628480_35
+  - first:
+      213: 2854190076032073717
+    second: pngfind.com-castlevania-png-6628480_36
+  - first:
+      213: 222253926852246578
+    second: pngfind.com-castlevania-png-6628480_37
+  - first:
+      213: 3632602738030371908
+    second: pngfind.com-castlevania-png-6628480_38
+  - first:
+      213: -2883278802416545613
+    second: pngfind.com-castlevania-png-6628480_39
+  - first:
+      213: -8347823325997695242
+    second: pngfind.com-castlevania-png-6628480_40
+  - first:
+      213: -7305256862788829193
+    second: pngfind.com-castlevania-png-6628480_41
+  - first:
+      213: 3542581784159241525
+    second: pngfind.com-castlevania-png-6628480_42
+  - first:
+      213: -8871833459115834716
+    second: pngfind.com-castlevania-png-6628480_43
+  - first:
+      213: 7229217224282427177
+    second: pngfind.com-castlevania-png-6628480_44
+  - first:
+      213: -302848831911972091
+    second: pngfind.com-castlevania-png-6628480_45
+  - first:
+      213: 2584688371909920140
+    second: pngfind.com-castlevania-png-6628480_46
+  - first:
+      213: 8870405346704731860
+    second: pngfind.com-castlevania-png-6628480_47
+  - first:
+      213: 4135122913871748267
+    second: pngfind.com-castlevania-png-6628480_48
+  - first:
+      213: 3613321442121180218
+    second: pngfind.com-castlevania-png-6628480_49
+  - first:
+      213: 327247341986609310
+    second: pngfind.com-castlevania-png-6628480_50
+  - first:
+      213: -2725629404098458384
+    second: pngfind.com-castlevania-png-6628480_51
+  - first:
+      213: -1430678877108676207
+    second: pngfind.com-castlevania-png-6628480_52
+  - first:
+      213: -5592403924748279690
+    second: pngfind.com-castlevania-png-6628480_53
+  - first:
+      213: -1767037470957043224
+    second: pngfind.com-castlevania-png-6628480_54
+  - first:
+      213: 8897643529424892505
+    second: pngfind.com-castlevania-png-6628480_55
+  - first:
+      213: 2136922642709350672
+    second: pngfind.com-castlevania-png-6628480_56
+  - first:
+      213: 1605649096505537867
+    second: pngfind.com-castlevania-png-6628480_57
+  - first:
+      213: 1654100695531612914
+    second: pngfind.com-castlevania-png-6628480_58
+  - first:
+      213: -8409426567400411415
+    second: pngfind.com-castlevania-png-6628480_59
+  - first:
+      213: 6158419700981073766
+    second: pngfind.com-castlevania-png-6628480_60
+  - first:
+      213: -8656588141560706943
+    second: pngfind.com-castlevania-png-6628480_61
+  - first:
+      213: 5975091292178119822
+    second: pngfind.com-castlevania-png-6628480_62
+  - first:
+      213: -5764081363143313896
+    second: pngfind.com-castlevania-png-6628480_63
+  - first:
+      213: 4282378416068259027
+    second: pngfind.com-castlevania-png-6628480_64
+  - first:
+      213: 2533005859724897361
+    second: pngfind.com-castlevania-png-6628480_65
+  - first:
+      213: -8405071796044913096
+    second: pngfind.com-castlevania-png-6628480_66
+  - first:
+      213: -1457972530857301695
+    second: pngfind.com-castlevania-png-6628480_67
+  - first:
+      213: 3625993304507487956
+    second: pngfind.com-castlevania-png-6628480_68
+  - first:
+      213: 2589136116838967590
+    second: pngfind.com-castlevania-png-6628480_69
+  - first:
+      213: -5660937149907233494
+    second: pngfind.com-castlevania-png-6628480_70
+  - first:
+      213: -5065391476287048914
+    second: pngfind.com-castlevania-png-6628480_71
+  - first:
+      213: -2898879000311345622
+    second: pngfind.com-castlevania-png-6628480_72
+  - first:
+      213: -90975070760176580
+    second: pngfind.com-castlevania-png-6628480_73
+  - first:
+      213: 2099123097342372321
+    second: pngfind.com-castlevania-png-6628480_74
+  - first:
+      213: -5094445037677247120
+    second: pngfind.com-castlevania-png-6628480_75
+  - first:
+      213: -7441996013296728736
+    second: pngfind.com-castlevania-png-6628480_76
+  - first:
+      213: -5438961260200696481
+    second: pngfind.com-castlevania-png-6628480_77
+  - first:
+      213: -6703424542114409575
+    second: pngfind.com-castlevania-png-6628480_78
+  - first:
+      213: 931803188213497650
+    second: pngfind.com-castlevania-png-6628480_79
+  - first:
+      213: -1962043083772613136
+    second: pngfind.com-castlevania-png-6628480_80
+  - first:
+      213: -3598580005330476466
+    second: pngfind.com-castlevania-png-6628480_81
+  - first:
+      213: 7958925175740289688
+    second: pngfind.com-castlevania-png-6628480_82
+  - first:
+      213: -392765007380697057
+    second: pngfind.com-castlevania-png-6628480_83
+  - first:
+      213: -3155428729648308684
+    second: pngfind.com-castlevania-png-6628480_84
+  - first:
+      213: -4530856337493244330
+    second: pngfind.com-castlevania-png-6628480_85
+  - first:
+      213: -1995442736511199077
+    second: pngfind.com-castlevania-png-6628480_86
+  - first:
+      213: -3643210892445738164
+    second: pngfind.com-castlevania-png-6628480_87
+  - first:
+      213: -1078301995558458849
+    second: pngfind.com-castlevania-png-6628480_88
+  - first:
+      213: 6659016181853434666
+    second: pngfind.com-castlevania-png-6628480_89
+  - first:
+      213: 2175542678169006536
+    second: pngfind.com-castlevania-png-6628480_90
+  - first:
+      213: 7709502454789394666
+    second: pngfind.com-castlevania-png-6628480_91
+  - first:
+      213: 5440275341071770542
+    second: pngfind.com-castlevania-png-6628480_92
+  - first:
+      213: 5893731696714030642
+    second: pngfind.com-castlevania-png-6628480_93
+  - first:
+      213: 5219450338764569390
+    second: pngfind.com-castlevania-png-6628480_94
+  - first:
+      213: -7898651711627919933
+    second: pngfind.com-castlevania-png-6628480_95
+  - first:
+      213: -4318465073292396825
+    second: pngfind.com-castlevania-png-6628480_96
+  - first:
+      213: 7685602578781116451
+    second: pngfind.com-castlevania-png-6628480_97
+  - first:
+      213: -3136898583098494857
+    second: pngfind.com-castlevania-png-6628480_98
+  - first:
+      213: 271198369883215466
+    second: pngfind.com-castlevania-png-6628480_99
+  - first:
+      213: -2122882059157557821
+    second: pngfind.com-castlevania-png-6628480_100
+  - first:
+      213: 1558359491418132769
+    second: pngfind.com-castlevania-png-6628480_101
+  - first:
+      213: -548285917260805747
+    second: pngfind.com-castlevania-png-6628480_102
+  - first:
+      213: 8609466418186037842
+    second: pngfind.com-castlevania-png-6628480_103
+  - first:
+      213: 4186803247740472976
+    second: pngfind.com-castlevania-png-6628480_104
+  - first:
+      213: -3653653663693387904
+    second: pngfind.com-castlevania-png-6628480_105
+  - first:
+      213: -1348771082732568539
+    second: pngfind.com-castlevania-png-6628480_106
+  - first:
+      213: 69024792861944692
+    second: pngfind.com-castlevania-png-6628480_107
+  - first:
+      213: 1551339528162607785
+    second: pngfind.com-castlevania-png-6628480_108
+  - first:
+      213: -5099504868020678001
+    second: pngfind.com-castlevania-png-6628480_109
+  - first:
+      213: 4514585669821642561
+    second: pngfind.com-castlevania-png-6628480_110
+  - first:
+      213: 5674711387413256089
+    second: pngfind.com-castlevania-png-6628480_111
+  - first:
+      213: 1886141118897448731
+    second: pngfind.com-castlevania-png-6628480_112
+  - first:
+      213: 5299389961803488496
+    second: pngfind.com-castlevania-png-6628480_113
+  - first:
+      213: -1120240718986687143
+    second: pngfind.com-castlevania-png-6628480_114
+  - first:
+      213: 7788649422284087765
+    second: pngfind.com-castlevania-png-6628480_115
+  - first:
+      213: 8270581816743143292
+    second: pngfind.com-castlevania-png-6628480_116
+  - first:
+      213: -8274093530654308621
+    second: pngfind.com-castlevania-png-6628480_117
+  - first:
+      213: 1738405486953935874
+    second: pngfind.com-castlevania-png-6628480_118
+  - first:
+      213: 233726565329609779
+    second: pngfind.com-castlevania-png-6628480_119
+  - first:
+      213: -3846498644764551892
+    second: pngfind.com-castlevania-png-6628480_120
+  - first:
+      213: -3336747260241992223
+    second: pngfind.com-castlevania-png-6628480_121
+  - first:
+      213: 4577495760344340375
+    second: pngfind.com-castlevania-png-6628480_122
+  - first:
+      213: 5496683656199645853
+    second: pngfind.com-castlevania-png-6628480_123
+  - first:
+      213: -1729719803440466070
+    second: pngfind.com-castlevania-png-6628480_124
+  - first:
+      213: 8265574368480776139
+    second: pngfind.com-castlevania-png-6628480_125
+  - first:
+      213: -8857435400119166839
+    second: pngfind.com-castlevania-png-6628480_126
+  - first:
+      213: 2432420396556027367
+    second: pngfind.com-castlevania-png-6628480_127
+  - first:
+      213: 4651972313267024587
+    second: pngfind.com-castlevania-png-6628480_128
+  - first:
+      213: 2648840475569873715
+    second: pngfind.com-castlevania-png-6628480_129
+  - first:
+      213: 8123703286340129749
+    second: pngfind.com-castlevania-png-6628480_130
+  - first:
+      213: -7300972900486632673
+    second: pngfind.com-castlevania-png-6628480_131
+  - first:
+      213: -8426746321597426985
+    second: pngfind.com-castlevania-png-6628480_132
+  - first:
+      213: -8976188333907042651
+    second: pngfind.com-castlevania-png-6628480_133
+  - first:
+      213: 4397213456652771693
+    second: pngfind.com-castlevania-png-6628480_134
+  - first:
+      213: 1638152040172972283
+    second: pngfind.com-castlevania-png-6628480_135
+  - first:
+      213: -6331517153431376854
+    second: pngfind.com-castlevania-png-6628480_136
+  - first:
+      213: -7724373115600934622
+    second: pngfind.com-castlevania-png-6628480_137
+  - first:
+      213: 5322410605194471504
+    second: pngfind.com-castlevania-png-6628480_138
+  - first:
+      213: -3892320622844394962
+    second: pngfind.com-castlevania-png-6628480_139
+  - first:
+      213: 2098059176727292857
+    second: pngfind.com-castlevania-png-6628480_140
+  - first:
+      213: 3411214463515409682
+    second: pngfind.com-castlevania-png-6628480_141
+  - first:
+      213: -3535828907631802034
+    second: pngfind.com-castlevania-png-6628480_142
+  - first:
+      213: -2010568838225672075
+    second: pngfind.com-castlevania-png-6628480_143
+  - first:
+      213: -6688516055901547157
+    second: pngfind.com-castlevania-png-6628480_144
+  - first:
+      213: 6558938282640141086
+    second: pngfind.com-castlevania-png-6628480_145
+  - first:
+      213: 219849540237539436
+    second: pngfind.com-castlevania-png-6628480_146
+  - first:
+      213: -23527832584305058
+    second: pngfind.com-castlevania-png-6628480_147
+  - first:
+      213: 2701042519887954646
+    second: pngfind.com-castlevania-png-6628480_148
+  - first:
+      213: -6775008532599718233
+    second: pngfind.com-castlevania-png-6628480_149
+  - first:
+      213: 2915785681646868953
+    second: pngfind.com-castlevania-png-6628480_150
+  - first:
+      213: -3450255081359894274
+    second: pngfind.com-castlevania-png-6628480_151
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1df5796d4cac150800000000000000
+      internalID: 5893739488309400049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed955ad75b622180800000000000000
+      internalID: -9141626268539314719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f11467a9eb44110800000000000000
+      internalID: 1244328967679319936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_3
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231c659fee8ef740800000000000000
+      internalID: 5187740980432605991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 717
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e6bafa012f25d0800000000000000
+      internalID: -3085210888685820231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 716
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d7fb0be09bc9b60800000000000000
+      internalID: 7754276131171171595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b60cc91c991d40800000000000000
+      internalID: 5555643249949325353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_7
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349c4608747d83580800000000000000
+      internalID: -8847084765872600765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 716
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91141270418301c10800000000000000
+      internalID: 2022177891359473945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 717
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf7a2598f110bae0800000000000000
+      internalID: -1535707713581187107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_10
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 716
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ffae65aa2c4710800000000000000
+      internalID: 1678763651117349309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 685
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bccfda74f80c9d0800000000000000
+      internalID: -2756045433926268089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 684
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5771f499755c228e0800000000000000
+      internalID: -1719595127677184139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 684
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cef5d532dffda50800000000000000
+      internalID: 6548230711552240773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 685
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c13c62de9447c080800000000000000
+      internalID: -9167283067563527743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_15
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 685
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c35a11f5832900b60800000000000000
+      internalID: 7710323332869104956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_16
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 687
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997e986d1aa1c20e0800000000000000
+      internalID: -2293428827847006311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cfae2dbd7a8c470800000000000000
+      internalID: 8415160466320063613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_18
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 685
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f5d87416e391820800000000000000
+      internalID: 2889409223468080903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_19
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 684
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cda2439da4b9a980800000000000000
+      internalID: -8527085761856361015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 687
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6df95898f4767b0800000000000000
+      internalID: -5231124990096582998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_21
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 685
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9fd2c17f61c19b0800000000000000
+      internalID: -5108182626759476819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f340a21993b8ff0800000000000000
+      internalID: -32869276637184237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_23
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c4d98660461a9b0800000000000000
+      internalID: -5070661726754747319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_24
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0911758b84a3680800000000000000
+      internalID: -8774620967406038821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f7cbd33bf39bb0800000000000000
+      internalID: -4930320966891342457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_26
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 645
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9c463b23b19eac0800000000000000
+      internalID: -3825496503902484039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_27
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 647
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04ff3acca314270800000000000000
+      internalID: 8232926244409131191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_28
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb87ac313e998060800000000000000
+      internalID: 6956265033758641151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 645
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2418df73753f047b0800000000000000
+      internalID: -5241922410332192446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_30
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 644
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d07e3dd69cb581d0800000000000000
+      internalID: -3349063391737122605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_31
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 647
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc8e165a115e7a00800000000000000
+      internalID: 756130961000664308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 645
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff312274abfe5800800000000000000
+      internalID: 603196083822215154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_33
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 604
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffec8c2b273ce20f0800000000000000
+      internalID: -1139758758284964097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a019a1f3353718e40800000000000000
+      internalID: 5656929408332239114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_35
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 604
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395fadb6440c6fe0800000000000000
+      internalID: -1194575099283416784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_36
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 604
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff365380ce1c9720800000000000000
+      internalID: 2854190076032073717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_37
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 604
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cb6f7d4ca951300800000000000000
+      internalID: 222253926852246578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 604
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4446962a1f8996230800000000000000
+      internalID: 3632602738030371908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_39
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 606
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b05c8994398cf7d0800000000000000
+      internalID: -2883278802416545613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_40
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 605
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6feff26e9e2962c80800000000000000
+      internalID: -8347823325997695242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 605
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffbc7496938e9a90800000000000000
+      internalID: -7305256862788829193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_42
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 606
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535c4900d57c92130800000000000000
+      internalID: 3542581784159241525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_43
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 604
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c9f2597ae0e480800000000000000
+      internalID: -8871833459115834716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 604
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f4d7173c6535460800000000000000
+      internalID: 7229217224282427177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 561
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503be3987901ccbf0800000000000000
+      internalID: -302848831911972091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_46
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 556
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8506c64168aed320800000000000000
+      internalID: 2584688371909920140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_47
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 556
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4deaf085aa20a1b70800000000000000
+      internalID: 8870405346704731860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_48
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 561
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac57ef9168e26930800000000000000
+      internalID: 4135122913871748267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_49
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a346fe815b8152230800000000000000
+      internalID: 3613321442121180218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_50
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e987dc449bd9a8400800000000000000
+      internalID: 327247341986609310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc0a5b7f7e9c2ad0800000000000000
+      internalID: -2725629404098458384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_52
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199584e2425352ce0800000000000000
+      internalID: -1430678877108676207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670e0e0a24ac362b0800000000000000
+      internalID: -5592403924748279690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_54
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 556
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e10dc648c83a77e0800000000000000
+      internalID: -1767037470957043224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9527c65f5a7ca7b70800000000000000
+      internalID: 8897643529424892505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_56
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0190e2752dfd7ad10800000000000000
+      internalID: 2136922642709350672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_57
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45b32f9859684610800000000000000
+      internalID: 1605649096505537867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_58
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 516
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa63eb91db84f610800000000000000
+      internalID: 1654100695531612914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_59
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 524
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eead5d8717bb4b80800000000000000
+      internalID: -8409426567400411415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_60
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 525
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6678ebed61a177550800000000000000
+      internalID: 6158419700981073766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_61
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 524
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1884a6723fe9dd780800000000000000
+      internalID: -8656588141560706943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_62
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 524
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c7ec27fd9cbe250800000000000000
+      internalID: 5975091292178119822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_63
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 525
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816b4652a8ed100b0800000000000000
+      internalID: -5764081363143313896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 524
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6c8bfa701e6b30800000000000000
+      internalID: 4282378416068259027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca2e2b86b072320800000000000000
+      internalID: 2533005859724897361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 484
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a615cbbf2b5b80800000000000000
+      internalID: -8405071796044913096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_67
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 489
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14929f535bd34cbe0800000000000000
+      internalID: -1457972530857301695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_68
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d61d19f2bd125230800000000000000
+      internalID: 3625993304507487956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 476
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629225794957ee320800000000000000
+      internalID: 2589136116838967590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_70
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 477
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2597f3b7af4071b0800000000000000
+      internalID: -5660937149907233494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_71
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 477
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e237e973a4d14b9b0800000000000000
+      internalID: -5065391476287048914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_72
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 476
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e4a9b78ec15c7d0800000000000000
+      internalID: -2898879000311345622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_73
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 484
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c347ce7b7aaccbef0800000000000000
+      internalID: -90975070760176580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_74
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 489
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e9e8ecd555912d10800000000000000
+      internalID: 2099123097342372321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_75
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 484
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0750f71da35ec49b0800000000000000
+      internalID: -5094445037677247120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_76
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 486
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06543972e08b8b890800000000000000
+      internalID: -7441996013296728736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 446
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5560aafc8de484b0800000000000000
+      internalID: -5438961260200696481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_78
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 444
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99392ac25e6a8f2a0800000000000000
+      internalID: -6703424542114409575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_79
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 449
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fba02101e6eec00800000000000000
+      internalID: 931803188213497650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_80
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fda8bde53c65c4e0800000000000000
+      internalID: -1962043083772613136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 436
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42247e1d864f0ec0800000000000000
+      internalID: -3598580005330476466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_82
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 437
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892d9e57748c37e60800000000000000
+      internalID: 7958925175740289688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_83
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 437
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10bed68e4e9c8af0800000000000000
+      internalID: -392765007380697057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_84
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 436
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e104fd94aa534d0800000000000000
+      internalID: -3155428729648308684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_85
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 444
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6564363aa2a2f11c0800000000000000
+      internalID: -4530856337493244330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_86
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98dd984763ce44e0800000000000000
+      internalID: -1995442736511199077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_87
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 444
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b10f1fef6b07dc0800000000000000
+      internalID: -3643210892445738164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_88
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 446
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa4225c0a1901f0800000000000000
+      internalID: -1078301995558458849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_89
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23b3f8bfe3996c50800000000000000
+      internalID: 6659016181853434666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c137fd0a84113e10800000000000000
+      internalID: 2175542678169006536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_91
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae059bcc2a7adfa60800000000000000
+      internalID: 7709502454789394666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 406
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea366e0599dbf7b40800000000000000
+      internalID: 5440275341071770542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 406
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e991870cdbac150800000000000000
+      internalID: 5893731696714030642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_94
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bbad4ed663f6840800000000000000
+      internalID: 5219450338764569390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_95
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 404
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf2ebfd1a526290800000000000000
+      internalID: -7898651711627919933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_96
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 405
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6b97365eab114c0800000000000000
+      internalID: -4318465073292396825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_97
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 361
+        width: 48
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328131943deb8aa60800000000000000
+      internalID: 7685602578781116451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 361
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770fcf1db5f7774d0800000000000000
+      internalID: -3136898583098494857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_99
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 364
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66dd840b7d73c300800000000000000
+      internalID: 271198369883215466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_100
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 377
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd2dd3c3020a82e0800000000000000
+      internalID: -2122882059157557821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_101
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121165e63b760a510800000000000000
+      internalID: 1558359491418132769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_102
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89025afcd81468f0800000000000000
+      internalID: -548285917260805747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a22a9a718fa7770800000000000000
+      internalID: 8609466418186037842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ec5060f538a1a30800000000000000
+      internalID: 4186803247740472976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_105
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 356
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087404bc95d9b4dc0800000000000000
+      internalID: -3653653663693387904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_106
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 377
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520086aa8d3384de0800000000000000
+      internalID: -1348771082732568539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_107
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 377
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b2b33fea935f000800000000000000
+      internalID: 69024792861944692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_108
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2872ed417778510800000000000000
+      internalID: 1551339528162607785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_109
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f829043475bea39b0800000000000000
+      internalID: -5099504868020678001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 358
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147b9c55fb707ae30800000000000000
+      internalID: 4514585669821642561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_111
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 358
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99791a1e0ff90ce40800000000000000
+      internalID: 5674711387413256089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_112
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 338
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17e32cba5bec2a10800000000000000
+      internalID: 1886141118897448731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_113
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc5197c7173b8940800000000000000
+      internalID: 5299389961803488496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_114
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dced9500b1470f0800000000000000
+      internalID: -1120240718986687143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_115
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 312
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d16b4f2267d61c60800000000000000
+      internalID: 7788649422284087765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_116
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 312
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77a7c8c75207c270800000000000000
+      internalID: 8270581816743143292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_117
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f60efa95c38c2d80800000000000000
+      internalID: -8274093530654308621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_118
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 313
+        width: 16
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204ba75749e002810800000000000000
+      internalID: 1738405486953935874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 338
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3342b05a21d5e3300800000000000000
+      internalID: 233726565329609779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_120
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2599c9bcdd7e9ac0800000000000000
+      internalID: -3846498644764551892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 318
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a400bb0e71b1d0800000000000000
+      internalID: -3336747260241992223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_122
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7975e243428868f30800000000000000
+      internalID: 4577495760344340375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_123
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 248
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9aa972a9a4284c40800000000000000
+      internalID: 5496683656199645853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_124
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67f8f2d00dcef7e0800000000000000
+      internalID: -1729719803440466070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_125
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfced1681835b270800000000000000
+      internalID: 8265574368480776139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_126
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 248
+        width: 14
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9885deaae61141580800000000000000
+      internalID: -8857435400119166839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_127
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 249
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e503219671b1c120800000000000000
+      internalID: 2432420396556027367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_128
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2bb35fb202f8040800000000000000
+      internalID: 4651972313267024587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_129
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 248
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 333e40dd06292c420800000000000000
+      internalID: 2648840475569873715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_130
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 248
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31af209113db070800000000000000
+      internalID: 8123703286340129749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_131
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 284
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1badb744dbbdaa90800000000000000
+      internalID: -7300972900486632673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_132
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d21bd80ede2e0b80800000000000000
+      internalID: -8426746321597426985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_133
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 254
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae1778a44c2e6380800000000000000
+      internalID: -8976188333907042651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_134
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 185
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d612b55675a060d30800000000000000
+      internalID: 4397213456652771693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_135
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 168
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8679ae992ebb610800000000000000
+      internalID: 1638152040172972283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_136
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 168
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c2e6cd1bee128a0800000000000000
+      internalID: -6331517153431376854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_137
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 168
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229670ca3938dc490800000000000000
+      internalID: -7724373115600934622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_138
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 168
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058636ffe300dd940800000000000000
+      internalID: 5322410605194471504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_139
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 168
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22ce631403bbf9c0800000000000000
+      internalID: -3892320622844394962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_140
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 168
+        width: 24
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb249a84bdcd1d10800000000000000
+      internalID: 2098059176727292857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 168
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21db28e2b71175f20800000000000000
+      internalID: 3411214463515409682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_142
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 168
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e498c0697563eeec0800000000000000
+      internalID: -3535828907631802034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_143
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 185
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c6194b460914e0800000000000000
+      internalID: -2010568838225672075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_144
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 72
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65dd7d951e9d23a0800000000000000
+      internalID: -6688516055901547157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_145
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 80
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1be9780e97060b50800000000000000
+      internalID: 6558938282640141086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_146
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6834e5fdff0d0300800000000000000
+      internalID: 219849540237539436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_147
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 72
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e564a789f896caff0800000000000000
+      internalID: -23527832584305058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_148
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2c5217cd70c7520800000000000000
+      internalID: 2701042519887954646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae372892a55af1a0800000000000000
+      internalID: -6775008532599718233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_150
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d95bb301a3f67820800000000000000
+      internalID: 2915785681646868953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngfind.com-castlevania-png-6628480_151
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 0
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef89e03a84b3e10d0800000000000000
+      internalID: -3450255081359894274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
