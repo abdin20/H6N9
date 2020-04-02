@@ -7,6 +7,8 @@ TagManager:
   - projectile
   - enemy
   - Coin
+  - Potion
+  - shieldpotion
   layers:
   - Default
   - TransparentFX

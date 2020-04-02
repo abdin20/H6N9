@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class Player : MonoBehaviour {
 
@@ -13,7 +14,7 @@ public class Player : MonoBehaviour {
     public int score = 0;
 
     public GameObject shield;
-
+    public GameObject prefabShield;
     // Use this for initialization
     void Start () {
         _animator = GetComponent<Animator>();
@@ -22,7 +23,9 @@ public class Player : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-      
+        if(transform.position.y < -20){
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
 
         // Handle input
         float inputX = Input.GetAxis("Horizontal");
@@ -72,7 +75,7 @@ public class Player : MonoBehaviour {
         if(other.gameObject.tag == "enemy" )
         {
               //if player does not have shield 
-            if (shield == null)
+            if (shield.transform.position.y >= 20000)
             {
                 Debug.Log("hit by enemy");
                 _animator.SetTrigger("Hurt");
@@ -86,15 +89,19 @@ public class Player : MonoBehaviour {
             }
             else //he has shield so no health is lost but we destroy the shield
             {
-                Destroy(shield);
+                shield.transform.position = new Vector2(shield.transform.position.x,20000);
             }
             
 
         }
-        if (other.gameObject.tag == "Coin"){
-            score++;
-            Destroy(other.gameObject);
+        if (other.gameObject.tag == "Coin"){ //collides with coin
+            score++;  //add score
+            Destroy(other.gameObject); //destroy the coin
 
+        }
+        if (other.gameObject.tag == "Potion"){
+            health++; //add to health
+            Destroy(other.gameObject); //destory the potion
         }
 
         //if if hit flag we win
@@ -112,7 +119,7 @@ public class Player : MonoBehaviour {
             //destory the projectile immediately
             Destroy(other.gameObject);
             //if player does not have shield 
-            if (shield == null)
+            if (shield.transform.position.y >= 20000)
             {
                 Debug.Log("hit by enemy");
                 _animator.SetTrigger("Hurt");
@@ -128,7 +135,16 @@ public class Player : MonoBehaviour {
             }
             else //he has shield so no health is lost but we destroy the shield
             {
-                Destroy(shield);
+               shield.transform.position = new Vector2(shield.transform.position.x,20000);
+            }
+
+        }
+        if(other.gameObject.tag == "shieldpotion"){
+            if(shield.transform.position.y >= 20000){
+                shield.transform.position = new Vector2(transform.position.x,transform.position.y);
+                Destroy(other.gameObject);
+            }else{
+                Destroy(other.gameObject);
             }
 
         }
@@ -145,7 +161,7 @@ public class Player : MonoBehaviour {
             //destory the projectile immediately
             Destroy(col.gameObject);
             //if player does not have shield lower health
-            if (shield == null)
+            if (shield.transform.position.y >= 20000)
             {
                 Debug.Log("hit by projectile");
                 _animator.SetTrigger("Hurt"); //set animation to hurt
@@ -159,9 +175,9 @@ public class Player : MonoBehaviour {
                 }
 
             }
-            else //he has shield so no health is lost but we destroy the shield
+            else //he has shield so no health is lost but move the shield
             {
-                Destroy(shield);
+                shield.transform.position = new Vector2(shield.transform.position.x,20000);
             }
 
 
