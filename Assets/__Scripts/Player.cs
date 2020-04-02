@@ -10,6 +10,7 @@ public class Player : MonoBehaviour {
     private Rigidbody2D         _playerRigidBody;
 
     public float health = 2;
+    public int score = 0;
 
     public GameObject shield;
 
@@ -87,6 +88,12 @@ public class Player : MonoBehaviour {
             {
                 Destroy(shield);
             }
+            
+
+        }
+        if (other.gameObject.tag == "Coin"){
+            score++;
+            Destroy(other.gameObject);
 
         }
 
