@@ -10,7 +10,9 @@ public class Player : MonoBehaviour {
     private Animator            _animator;
     private Rigidbody2D         _playerRigidBody;
 
-    public float health = 2;
+    public static float health = 3;
+    //public static float tempHealth = 3;
+    public float tempHealth;
     public int score = 0;
 
     public bool key;
@@ -22,6 +24,7 @@ public class Player : MonoBehaviour {
         _animator = GetComponent<Animator>();
         _playerRigidBody = GetComponent<Rigidbody2D>();
         key = false;
+        //health = tempHealth;
     }
 	
 	// Update is called once per frame
@@ -67,7 +70,26 @@ public class Player : MonoBehaviour {
         {
            _animator.SetInteger("AnimState", 0);
         }
-            
+
+        tempHealth = health;
+        //buffs
+        if (score == 5) {
+
+               //tempHealth =+ 1;
+
+        } else if (score == 10) {
+
+                PlayerAttack.tempDamage = +1;
+
+        } else if (score == 20) {
+
+            //tempHealth = -1;
+
+        } else if (score == 30) {
+
+            PlayerAttack.tempDamage = -1;
+
+        }
     }
 
    

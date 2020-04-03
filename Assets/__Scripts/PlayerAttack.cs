@@ -11,6 +11,7 @@ public class PlayerAttack : MonoBehaviour
     public Transform attackPosition;
     public float attackRange;
     public int damage;
+    public static int tempDamage;
 
     private Animator _animator;
 
