@@ -10,8 +10,8 @@ public class PlayerAttack : MonoBehaviour
 
     public Transform attackPosition;
     public float attackRange;
-    public static int damage;
-    public static int tempDamage;
+    public static int damage = 3;
+    public int newDamage;
 
     private Animator _animator;
 
@@ -30,6 +30,7 @@ public class PlayerAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        newDamage = damage;
 
         // Handle input
         float inputX = Input.GetAxis("Horizontal");
