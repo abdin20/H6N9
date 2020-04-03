@@ -227,7 +227,7 @@ MonoBehaviour:
   timeBetweenAttacks: 1
   attackPosition: {fileID: 4971796196393515548}
   attackRange: 1.8
-  damage: 1
+  damage: 3
   enemies:
     serializedVersion: 2
     m_Bits: 256
