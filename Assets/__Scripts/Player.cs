@@ -11,6 +11,7 @@ public class Player : MonoBehaviour {
     private Rigidbody2D         _playerRigidBody;
 
     public static float health = 3; //beginning health of the game
+    public static float healthReference = health;
     public float newHealth; //health after points have been accounted for
     public int score = 0;
 
@@ -74,13 +75,13 @@ public class Player : MonoBehaviour {
         newHealth = health;
 
         //player changes in health and damage done when certain points are achieved
-        if (score == 5) {
+       /*if (score == 5) {
 
                newHealth =+ 1;
 
         } else if (score == 10) {
 
-                PlayerAttack.tempDamage = +1;
+                PlayerAttack.damage = +1;
 
         } else if (score == 20) {
 
@@ -88,9 +89,9 @@ public class Player : MonoBehaviour {
 
         } else if (score == 30) {
 
-            PlayerAttack.tempDamage = -1;
+            PlayerAttack.damage = -1;
 
-        }
+        }*/
     }
 
    
@@ -108,6 +109,7 @@ public class Player : MonoBehaviour {
 
                 if (health <= 0)
                 {
+                    health = healthReference; //dies so the character restarts with same hp
                     SceneManager.LoadScene(SceneManager.GetActiveScene().name);
                 }
 
@@ -132,36 +134,50 @@ public class Player : MonoBehaviour {
         //if if hit flag we win
         if (other.gameObject.tag == "Respawn")
         {
+//<<<<<<< Updated upstream
             //change next scene based off score of previous scene
 
             //if current scene is level 1
             if (SceneManager.GetActiveScene().name == "LevelOneScene")
             {
-                if (score == 5)
+                if (score>=5 && score<10)
                 {
-                    health =+ 1;
+                    healthReference += 1;
                 }
-                if (score == 10)
+                if (score>10)
                 {
-                    PlayerAttack.damage =+ 1;
+                    PlayerAttack.damage += 1;
                 }
             }
 
             //if current scene is level 2
             if (SceneManager.GetActiveScene().name == "LevelTwoScene")
             {
-                if (score == 20)
+                if (score>=20 && score<30)
                 {
-                    health = +-1;
+                    if (healthReference > 1)
+                    {
+                        healthReference += -1;
+                    }
                 }
-                if (score == 30)
+                if (score>30)
                 {
-                    PlayerAttack.damage = +-1;
+                    if(PlayerAttack.damage > 0)
+                    {
+                        PlayerAttack.damage += -1;
+                    }
                 }
             }
+            health = healthReference;
             //create reference variable for starting health
             
+//=======
+            //CREATE A REFERENCE VARIABLE FOR BEGINNING HP
+//>>>>>>> Stashed changes
 
+            //if in level 1 go here
+                //if score is this,
+            //if in level 2 go here
             SceneManager.LoadScene("LevelTwoScene", LoadSceneMode.Single);
 
         }
