@@ -23,7 +23,7 @@ public class HealthBar : MonoBehaviour
     }
     public void setCountText()
     {
-        playerHealth = (player.GetComponent<Player>().health).ToString(); //getting player health
+        playerHealth = (player.GetComponent<Player>().newHealth).ToString(); //getting player health
         healthText.text = "Health left: " + playerHealth; //setting text of player health
 
     }

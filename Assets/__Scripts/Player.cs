@@ -10,7 +10,8 @@ public class Player : MonoBehaviour {
     private Animator            _animator;
     private Rigidbody2D         _playerRigidBody;
 
-    public float health = 2;
+    public static float health = 3; //beginning health of the game
+    public float newHealth; //health after points have been accounted for
     public int score = 0;
 
     public bool key;
@@ -67,7 +68,29 @@ public class Player : MonoBehaviour {
         {
            _animator.SetInteger("AnimState", 0);
         }
-            
+
+
+        //player progression
+        newHealth = health;
+
+        //player changes in health and damage done when certain points are achieved
+        if (score == 5) {
+
+               newHealth =+ 1;
+
+        } else if (score == 10) {
+
+                PlayerAttack.tempDamage = +1;
+
+        } else if (score == 20) {
+
+            //tempHealth = -1;
+
+        } else if (score == 30) {
+
+            PlayerAttack.tempDamage = -1;
+
+        }
     }
 
    
@@ -109,6 +132,35 @@ public class Player : MonoBehaviour {
         //if if hit flag we win
         if (other.gameObject.tag == "Respawn")
         {
+            //change next scene based off score of previous scene
+
+            //if current scene is level 1
+            if (SceneManager.GetActiveScene().name == "LevelOneScene")
+            {
+                if (score == 5)
+                {
+                    health =+ 1;
+                }
+                if (score == 10)
+                {
+                    PlayerAttack.damage =+ 1;
+                }
+            }
+
+            //if current scene is level 2
+            if (SceneManager.GetActiveScene().name == "LevelTwoScene")
+            {
+                if (score == 20)
+                {
+                    health = +-1;
+                }
+                if (score == 30)
+                {
+                    PlayerAttack.damage = +-1;
+                }
+            }
+            //create reference variable for starting health
+            
 
             SceneManager.LoadScene("LevelTwoScene", LoadSceneMode.Single);
 
